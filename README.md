@@ -7,7 +7,7 @@ sustainable and inclusive habitats.
 
 Its current form is **[Compisle](https://compisle.com)**.
 
-Much of the technology the whitepaper describes is being built today across these projects:
+The whitepaper has served as the blueprint for a family of projects, all founded by Hilal Agil, which have developed into what they are today and carry much of its technology:
 
 - [Tenzro](https://tenzro.com)
 - [Furcate](https://furcate.org)
