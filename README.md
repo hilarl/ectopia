@@ -7,10 +7,16 @@ sustainable and inclusive habitats.
 
 Its current form is **[Compisle](https://compisle.com)**.
 
-It has served as the blueprint for what came after, built step by step:
-[Tenzro](https://github.com/tenzro) the network, [Furcate](https://github.com/furcateai) the
-intelligence, [Furcate OS](https://github.com/furcateresearch) the operating system, and now
-[Living Worlds](https://livingworldslab.com) the simulated worlds.
+Much of the technology the whitepaper describes is being built today across these projects:
+
+- [Tenzro](https://tenzro.com)
+- [Furcate](https://furcate.org)
+- [Living Worlds](https://livingworldslab.com)
+- [Ipnops](https://ipnops.ai)
+- [Praecise](https://praecise.com)
+- [Naturecode](https://naturecode.ai)
+- [Public Protocol](https://publicprotocol.org)
+- [Compisle](https://compisle.com)
 
 ---
 
