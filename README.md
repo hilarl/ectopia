@@ -5,6 +5,8 @@ sustainable and inclusive habitats.
 
 📄 **[Read the whitepaper →](whitepaper_v1.md)**
 
+Its current form is **[Compisle](https://compisle.com)**.
+
 It has served as the blueprint for what came after, built step by step:
 [Tenzro](https://github.com/tenzro) the network, [Furcate](https://github.com/furcateai) the
 intelligence, [Furcate OS](https://github.com/furcateresearch) the operating system, and now
