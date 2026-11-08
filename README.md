@@ -7,8 +7,8 @@ sustainable and inclusive habitats.
 
 It has served as the blueprint for what came after, built step by step:
 [Tenzro](https://github.com/tenzro) the network, [Furcate](https://github.com/furcateai) the
-intelligence, [Sovox](https://github.com/hilarl/sovox) the operating system, and now
-[Recursive Self](https://github.com/hilarl/recursive-self).
+intelligence, Sovox the operating system, and now
+Recursive Self.
 
 ---
 
